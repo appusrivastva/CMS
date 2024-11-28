@@ -7,9 +7,10 @@ This project is a Role-Based Content Management System built with Node.js, Expre
 - Admin: Has full access to manage users and content.
 - Moderator: Can create content and flag content as inappropriate.
 - User: Can view content but cannot create or flag it.
--Logout: Users can log out and invalidate the session.
+
+- Logout: Users can log out and invalidate the session.
 - View Content: All users can view the content created by Admin and Moderator.
-Features
+
 
  User Features:
 - Registration: Users can register with a username and password.
